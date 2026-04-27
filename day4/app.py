@@ -1,0 +1,6 @@
+name = input("Your Name: ")
+country  = input("Your Country Name: ")
+profession = input("Your Profession: ")
+print("Hello", name)
+print("You are from", country)
+print("Profession:", profession)
